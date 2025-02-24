@@ -637,3 +637,18 @@ jsonresume:
   - languages
   - interests
   - references
+
+excludes:
+  - _pages/blog.md
+  - _pages/publications.md 
+  - _pages/cv.md
+  - _pages/teaching.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
+  - _posts/
+  - _projects/?_project.md
+
+navbar_pages:
+  - about
+  - projects
+  - repositories
